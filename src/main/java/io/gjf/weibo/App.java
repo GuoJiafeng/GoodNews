@@ -40,6 +40,5 @@ public class App implements Job {
         MailUtil.send("1281615836@qq.com", "微博实时热搜", htmlbnody, true);
 
 
-
     }
 }

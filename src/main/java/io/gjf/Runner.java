@@ -18,7 +18,7 @@ public class Runner {
 
         quartzManager.setScheduler(scheduler);
 
-        quartzManager.addJob("weibo", "Group01", "Group01", "Group01", App.class, "* * */1 * * ?");
+        quartzManager.addJob("weibo", "Group01", "Group01", "Group01", App.class, "0 0 * * * ? *");
 
     }
 
