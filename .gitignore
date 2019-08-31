@@ -1,0 +1,14 @@
+target
+upload
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+*.cmd
+*.ini
+project2017/out
+.SynologyWorkingDirectory
+*.zip
+BigData/src/
+BigData/out/
