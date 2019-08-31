@@ -38,7 +38,7 @@ public class App implements Job {
 
 
         MailUtil.send("1281615836@qq.com", "微博实时热搜", htmlbnody, true);
-        MailUtil.send("yanghuimin1211@163.com", "微博实时热搜-爱你会敏姐姐", htmlbnody, true);
+
 
 
     }
